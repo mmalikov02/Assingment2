@@ -1,0 +1,86 @@
+/* header */
+.navbar-nav{
+    font-size: 20px;
+}
+.logo{
+    padding: 0;
+}
+
+/* body */
+
+.main{
+    background-image: url(https://www.openathens.net/app/uploads/2021/08/alfons-morales-YLSwjSy7stw-unsplash.jpg);
+    height: 600px;
+    color:white;
+    padding-top: 100px;
+}
+.intro{
+    padding-top: 200px;
+}
+.letter{
+    background-color: red;
+}
+
+/* best sellers */
+.section_header{
+    font-size: 50px;
+    padding:15px;
+}
+.books{
+    padding-bottom: 20px;
+    background-color: #BDB76B;
+}
+.books_img{
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin:0 auto;
+    padding-top: 5px;
+}
+
+.cards{
+    box-shadow: 4px 4px 8px 4px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding:5px;
+    background-color: cornsilk;
+    height: 830px;
+    
+}
+.books_desc{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+/* database */
+.data{
+    background-color: cornsilk;
+}
+.data_title{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    padding-top: 20px;
+}
+.database_img{
+    height: 200px;
+    width: 300px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    
+}
+
+
+/* contacts */
+.contact{ 
+    text-align: center; 
+        padding-top: 10px; 
+        color: white; 
+        background-color: orange; 
+    } 
+    .cont{ 
+        border-bottom: 1px solid white; 
+    } 
+   
+    .link{ 
+        display: block; 
+        text-decoration: none; 
+        color: white; 
+    }

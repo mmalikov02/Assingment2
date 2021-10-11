@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(233, 231, 231);
+    font-family: 'Cormorant';
+    font-style: bold;
+    font-size: larger;
+}
+.box
+{
+    border:1px solid gray;
+    border-radius: 40px;
+    padding: 30px;
+    background-color: rgb(233, 231, 231);
+    box-shadow: 2px 2px 20px 5px lightslategray;
+    margin:10px;
+}
+.borrow{
+background-image: url("https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thenewyorker.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1590006383/thenewyorker_the-oddest-terms-used-for-antique-books-explained.jpg");
+}
+h2{
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+}
+.container{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.git-header{
+    text-align: center;
+    margin-bottom: 50px;
+}
+input{
+    border:1px solid gray;
+    border-radius: 4px;
+}
+#submit{
+    margin-top: 10px;
+    border-radius: 10px;
+   
+}
+#submit:hover{
+    box-shadow: 2px 2px 4px lightslategray;
+}
+#reset{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+#reset:hover{
+    box-shadow: 2px 2px 4px lightslategray;
+}
+#txt{
+    color: rgba(27, 105, 250, 0.952);
+}
+/* hr{
+    width:1300px;
+} */

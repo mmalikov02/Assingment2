@@ -1,0 +1,45 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-image: url(img2/mramor2.jpg);
+}
+.text {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#book .row {
+    background: #fcf3f3; 
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 40px; 
+    padding: 18px 28px; 
+    background-image: url(img2/mramor2.jpg);
+}
+#let .row {
+    background: #FFFFFF; 
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 40px; 
+    padding: 18px 28px; 
+    background-image: url(img2/mramor2.jpg);
+}
+#just .row {
+    background: #FFFFFF; 
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 40px; 
+    padding: 18px 28px; 
+    background-image: url(img2/mramor2.jpg);
+}
+#Contacts {
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 10px;
+}
+.cont{
+    border-bottom: 1px solid;
+}
+
+.link{
+    display: grid;
+    text-decoration: none;
+}
